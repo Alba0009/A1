@@ -30,6 +30,4 @@
     <li>Ti kushtoj vemendje bebas.</li>
     <li>Te shoh filma me beban.</li>
     <li>Te fle me beban.</li>
-</body>
 
-</html>
